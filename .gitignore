@@ -1,0 +1,14 @@
+logs/
+*.log
+
+.cache/
+.npm/
+
+.DS_Store
+
+.vscode/
+.idea/
+
+.history/
+
+node_modules/
